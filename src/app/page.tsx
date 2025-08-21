@@ -1,7 +1,9 @@
+import { ThemeToggle } from "./components/Header";
+
 export default function Home() {
   return (
-    <div className="min-h-screen">
-      <h1>socorro</h1>
+    <div className="min-h-screen bg-background text-foreground overflow-x-hidden">
+      <ThemeToggle />
     </div>
   );
 }
