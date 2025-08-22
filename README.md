@@ -11,9 +11,13 @@ Cada projeto é uma oportunidade de aprender algo novo. Para mim, escrever códi
 ## 🚀 Funcionalidades
 
 ✅ Design Moderno e Responsivo: Interface limpa e totalmente adaptável a qualquer dispositivo, construída com Tailwind CSS.
+
 ✅ Animação de Fundo Interativa: Uma experiência visual imersiva com um background de estrelas e cometas.
+
 ✅ Seções Dedicadas: Apresentação clara de informações nas seções: Sobre, Habilidades, Projetos e Contato.
+
 ✅ Performance Otimizada: Construído com Next.js para garantir carregamento rápido, renderização no servidor (SSR) e ótima performance de SEO.
+
 ✅ Tipagem Estática: Código mais robusto, legível e com menos bugs graças ao uso do TypeScript.
 
 ## 🛠️ Tecnologias Utilizadas
