@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Portfólio - Wallysson Cavalcante
 
-## Getting Started
+Este é o repositório do meu portfólio pessoal, uma aplicação web desenvolvida com Next.js, TypeScript e Tailwind CSS. O objetivo é apresentar minhas habilidades, projetos e um pouco sobre minha jornada como desenvolvedor.
 
-First, run the development server:
+Cada projeto é uma oportunidade de aprender algo novo. Para mim, escrever código não é só sobre a técnica, mas sobre melhorar processos e encontrar maneiras mais inteligentes de resolver problemas.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 📸 Preview
+
+![Portifolio Screenshot](Screenshot.png)
+
+## 🚀 Funcionalidades
+
+✅ Design Moderno e Responsivo: Interface limpa e totalmente adaptável a qualquer dispositivo, construída com Tailwind CSS.
+✅ Animação de Fundo Interativa: Uma experiência visual imersiva com um background de estrelas e cometas.
+✅ Seções Dedicadas: Apresentação clara de informações nas seções: Sobre, Habilidades, Projetos e Contato.
+✅ Performance Otimizada: Construído com Next.js para garantir carregamento rápido, renderização no servidor (SSR) e ótima performance de SEO.
+✅ Tipagem Estática: Código mais robusto, legível e com menos bugs graças ao uso do TypeScript.
+
+## 🛠️ Tecnologias Utilizadas
+
+Next.js 14
+React
+TypeScript
+Tailwind CSS
+
+## 📦 Como Executar o Projeto
+
+Primeiro, clone o repositório:
+
+```Bash
+
+git clone https://github.com/WalyssonCavalcante/Portifolio.git
+Acesse a pasta do projeto:
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```Bash
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+cd Portfolio
+Instale as dependências:
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```Bash
 
-## Learn More
+npm install
+Inicie o servidor de desenvolvimento:
+```
 
-To learn more about Next.js, take a look at the following resources:
+```Bash
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+npm run dev
+Agora, abra http://localhost:3000 no seu navegador para ver o projeto em execução.
+```
