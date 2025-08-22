@@ -23,8 +23,11 @@ Cada projeto é uma oportunidade de aprender algo novo. Para mim, escrever códi
 ## 🛠️ Tecnologias Utilizadas
 
 Next.js 14
+
 React
+
 TypeScript
+
 Tailwind CSS
 
 ## 📦 Como Executar o Projeto
@@ -34,23 +37,27 @@ Primeiro, clone o repositório:
 ```Bash
 
 git clone https://github.com/WalyssonCavalcante/Portifolio.git
-Acesse a pasta do projeto:
 ```
+
+Acesse a pasta do projeto:
 
 ```Bash
 
 cd Portfolio
-Instale as dependências:
 ```
+
+Instale as dependências:
 
 ```Bash
 
 npm install
-Inicie o servidor de desenvolvimento:
 ```
+
+Inicie o servidor de desenvolvimento:
 
 ```Bash
 
 npm run dev
-Agora, abra http://localhost:3000 no seu navegador para ver o projeto em execução.
 ```
+
+Agora, abra http://localhost:3000 no seu navegador para ver o projeto em execução.
