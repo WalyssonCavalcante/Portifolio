@@ -1,7 +1,6 @@
 "use client";
 import { useEffect, useState } from "react";
 
-// 1. Interfaces criadas para definir a "forma" dos objetos
 interface Star {
   id: number;
   size: number;

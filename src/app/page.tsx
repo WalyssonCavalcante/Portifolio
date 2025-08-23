@@ -1,3 +1,4 @@
+import { AboutSection } from "./components/AboutSection";
 import { Header } from "./components/Header";
 import { HeroSection } from "./components/HeroSection";
 import { StarBackground } from "./components/StarBackground";
@@ -11,6 +12,7 @@ export default function Home() {
       <Header />
       <main>
         <HeroSection />
+        <AboutSection />
       </main>
     </div>
   );
