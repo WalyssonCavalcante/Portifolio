@@ -12,7 +12,6 @@ const navItems: NavItem[] = [
   { name: "Home", href: "#hero" },
   { name: "Sobre", href: "#about" },
   { name: "Habilidades", href: "#skills" },
-  { name: "Projetos", href: "#projects" },
   { name: "Contatos", href: "#contact" },
 ];
 

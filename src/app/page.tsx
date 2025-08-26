@@ -1,6 +1,8 @@
 import { AboutSection } from "./components/AboutSection";
+import { ContactSection } from "./components/ContactSection";
 import { Header } from "./components/Header";
 import { HeroSection } from "./components/HeroSection";
+import { SkillsSection } from "./components/SkillsSection";
 import { StarBackground } from "./components/StarBackground";
 import { ThemeToggle } from "./components/ThemeToggle";
 
@@ -13,6 +15,8 @@ export default function Home() {
       <main>
         <HeroSection />
         <AboutSection />
+        <SkillsSection />
+        <ContactSection />
       </main>
     </div>
   );
